@@ -1,0 +1,22 @@
+{
+  "name": "ProjectName",
+  "version": "0.1.0",
+  "summary": "A short description of ProjectName.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/LongChLiu/ProjectName",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "LongChLiu": "1040719208@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/LongChLiu/ProjectName.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "ProjectName/Classes/**/*"
+}
